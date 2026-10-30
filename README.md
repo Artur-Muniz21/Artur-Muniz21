@@ -23,9 +23,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Artur-Muniz21&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artur-Muniz21&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Artur-Muniz21/Artur-Muniz21/output/github-snake-dark.svg" />
